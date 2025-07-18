@@ -7,6 +7,16 @@
   "iconLinks": [],
   "customLinks": [
     {
+      "id": "1728534585737",
+      "title": "📢 Avisos del Aula Virtual de Discreta I",
+      "url": "https://famaf.aulavirtual.unc.edu.ar/mod/forum/view.php?id=21169"
+    },
+    {
+      "id": "1728534585741",
+      "title": "✍ Exámenes viejos de Discreta I",
+      "url": "https://examenes-viejos.pages.dev/ac/matematica-discreta-1/"
+    },
+    {
       "id": "1728534585738",
       "title": "🎥 Clases de Matemática Discreta I",
       "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9Ix4hoZN2MfEnugfV8cAwbiK"
@@ -20,11 +30,6 @@
       "id": "1728534585740",
       "title": "🗂 Trabajos Prácticos de Discreta I",
       "url": "https://drive.google.com/drive/folders/1xq7FNakVvotdaafQ0hkn3pkqQtUWSkVf?usp=sharing"
-    },
-    {
-      "id": "1728534585741",
-      "title": "✍ Exámenes viejos de Discreta I",
-      "url": "https://examenes-viejos.pages.dev/ac/matematica-discreta-1/"
     }
   ]
 }

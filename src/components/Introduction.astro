@@ -7,29 +7,29 @@ import profilePicture from "@/assets/profile-picture.jpg";
 ---
 
 <div class="mt-8 py-4">
-  <Image
-    src={profilePicture}
-    alt={SITE.name}
-    height={256}
-    width={256}
-    loading="eager"
-    draggable="false"
-    class="mx-auto size-32 rounded-full"
-  />
-  <h1 class="mt-4 text-center text-3xl font-semibold">{SITE.name}</h1>
+  <a href="https://goalritmo.com" class="block">
+    <Image
+      src={profilePicture}
+      alt={SITE.name}
+      height={256}
+      width={256}
+      loading="eager"
+      draggable="false"
+      class="mx-auto size-32 rounded-full"
+    />
+  </a>
+  <a href="https://goalritmo.com" class="block no-underline">
+    <h1 class="mt-4 text-center text-3xl font-semibold">{SITE.name}</h1>
+  </a>
   <p
     class="mt-1 text-balance text-center text-sm text-lightModeForegroundMuted dark:text-darkModeForegroundMuted"
   >
     {SITE.bio}
   </p>
-<div class="text-center pt-8">
   <a
-    href="https://goalritmo.com"
+    href="https://autogestion.guarani.unc.edu.ar/"
     class="pt-8 text-lg font-medium uppercase text-lightModeForegroundMuted underline underline-offset-4 hover:text-lightModeForeground dark:text-darkModeForegroundMuted dark:hover:text-darkModeForeground"
   >
-    {`Volver al Inicio`}
+    {`Ir a Guaraní (UNC)`}
   </a>
-</div>
-
-
 </div>
