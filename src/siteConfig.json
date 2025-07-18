@@ -1,6 +1,6 @@
 {
   "name": "Yendo al ritmo",
-  "bio": "de MD1 (Computación)",
+  "bio": "de MD1 (Compu)",
   "profilePicture": "/profile-picture.jpg",
   "url": "https://md1.goalritmo.com",
   "blog": true,
@@ -12,22 +12,22 @@
       "url": "https://famaf.aulavirtual.unc.edu.ar/mod/forum/view.php?id=21169"
     },
     {
-      "id": "1728534585741",
-      "title": "✍ Exámenes de Matemática Discreta I",
-      "url": "https://examenes-viejos.pages.dev/ac/matematica-discreta-1/"
-    },
-    {
-      "id": "1728534585738",
-      "title": "🎥 Clases de Matemática Discreta I",
+      "id": "1728534585739",
+      "title": "🎥 Clases Teóricas de Matemática Discreta I",
       "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9Ix4hoZN2MfEnugfV8cAwbiK"
     },
     {
       "id": "1728534585739",
+      "title": "🎥 Clases Prácticas de Matemática Discreta I",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IzTk7Mn4ZZUV0LqCDmDEZdW"
+    },
+    {
+      "id": "1728534585740",
       "title": "📘 Apunte Tiraboschi de Discreta I",
       "url": "https://drive.google.com/drive/folders/1IcvrtUkvm6tu_HAf31dBq5Y_ZOsfcv2F?usp=sharing"
     },
     {
-      "id": "1728534585740",
+      "id": "1728534585741",
       "title": "🗂 Trabajos Prácticos de Discreta I",
       "url": "https://drive.google.com/drive/folders/1xq7FNakVvotdaafQ0hkn3pkqQtUWSkVf?usp=sharing"
     }
